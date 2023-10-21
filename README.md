@@ -1,5 +1,4 @@
-# sinatra-rps
+# Rock-Paper-Scissors Game
 
-Target: https://rps.matchthetarget.com/
+App deployed using Render. You can find the final output here: https://rock-paper-scissors-h10r.onrender.com/.
 
-[Notes for this project are here.](https://learn.firstdraft.com/lessons/99)
